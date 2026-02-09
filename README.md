@@ -1,3 +1,21 @@
+## 🤝 Looking for Collaborators!
+
+This project is **open for continuation**. Due to limited computational resources, I'm sharing this as a foundation for others to build upon.
+
+**What I've done:**
+- ✅ Working 2D N-body engine (pure Python)
+- ✅ Membrane physics implementation
+- ✅ Atmospheric chemistry model
+- ✅ Verification suite (8 tests)
+
+**What needs improvement:**
+- [ ] 3D implementation (requires GPU)
+- [ ] Larger scale simulations (10,000+ bodies)
+- [ ] Relativistic corrections
+- [ ] Statistical analysis of Gaia emergence patterns
+
+**If you have access to computational resources and find this interesting, feel free to fork and extend!** I'm happy to discuss the physics assumptions and provide guidance.
+
 # V6 Black Hole Membrane Universe Simulator
 A 2D N-body physics simulation engine designed to explore the self-consistency of **Black Hole Cosmology** and **Membrane Boundary Theory**.
 ## 🚀 Overview
